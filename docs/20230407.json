@@ -1,0 +1,36 @@
+[
+    {
+        "title1": "慎重さ",
+        "title2": "DELIBERATIVE"
+    },
+    {
+        "title1": "収集心",
+        "title2": "INPUT"
+    },
+    {
+        "title1": "分析思考",
+        "title2": "ANALYTICAL"
+    },
+    {
+        "title1": "信念",
+        "title2": "BELIEF"
+    },
+    {
+        "disabled": true,
+        "checked": true,
+        "logo": true
+    },
+    {
+        "title1": "未来志向",
+        "title2": "FUTURESTIC"
+    },
+    {
+        "title1": "多様性",
+        "title2": "DIVERSITY"
+    },
+    [],
+    {
+        "title1": "その他",
+        "title2": "MORE"
+    }
+]
