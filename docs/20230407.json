@@ -1,15 +1,18 @@
 [
     {
         "title1": "慎重さ",
-        "title2": "DELIBERATIVE"
+        "title2": "SAFETY",
+        "icon": "1.svg"
     },
     {
         "title1": "収集心",
-        "title2": "INPUT"
+        "title2": "INPUT",
+        "icon": "2.svg"
     },
     {
         "title1": "分析思考",
-        "title2": "ANALYTICAL"
+        "title2": "ANALYTICAL",
+        "icon": "3.svg"
     },
     {
         "title1": "信念",
