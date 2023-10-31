@@ -6,17 +6,17 @@
     },
     {
         "title1": "収集心",
-        "title2": "INPUT",
+        "title2": "IGNORANCE",
         "icon": "2.svg"
     },
     {
         "title1": "分析思考",
-        "title2": "ANALYTICAL",
+        "title2": "SELECTION",
         "icon": "3.svg"
     },
     {
         "title1": "信念",
-        "title2": "BELIEF"
+        "title2": "MINIMALISM"
     },
     {
         "disabled": true,
