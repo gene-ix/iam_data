@@ -1,8 +1,21 @@
 [
     {
+        "title1": "信念",
+        "title2": "MINIMALISM"
+    },
+    {
+        "title1": "未来志向",
+        "title2": "FUTURESTIC"
+    },
+    {
         "title1": "慎重さ",
         "title2": "SAFETY",
         "icon": "1.svg"
+    },
+    {
+        "disabled": true,
+        "checked": true,
+        "logo": true
     },
     {
         "title1": "収集心",
@@ -15,25 +28,12 @@
         "icon": "3.svg"
     },
     {
-        "title1": "信念",
-        "title2": "MINIMALISM"
+        "title1": "",
+        "title2": ""
     },
     {
-        "disabled": true,
-        "checked": true,
-        "logo": true
-    },
-    {
-        "title1": "未来志向",
-        "title2": "FUTURESTIC"
-    },
-    {
-        "title1": "多様性",
-        "title2": "DIVERSITY"
-    },
-    {
-        "title1": "抽象性",
-        "title2": "ABSTRACTION"
+        "title1": "",
+        "title2": ""
     },
     {
         "title1": "その他",
